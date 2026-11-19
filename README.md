@@ -1,4 +1,4 @@
-![QEC-Fortress cover](assets/cover.png)
+![QEC-Fortress cover](QEC-Fortress%20cover.png)
 
 # QEC-Fortress 🛡️⚛️
 
